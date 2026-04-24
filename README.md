@@ -145,3 +145,15 @@ ________________________________________________________________________________
 **👨‍💻 Author**
 
 Developed by Ms-Israrullah as a professional-grade computer vision application for document digitization.
+
+_______________________________________________________________________________________________________
+
+**Document Scanner App**
+
+🚀 Live App:
+https://documentscanner-my9ekbau7ixb6kdvjvqeuk.streamlit.app/
+
+📌 Description:
+This app scans documents using OpenCV and Streamlit.
+
+
